@@ -36,7 +36,7 @@ out/
 ### VS Code ###
 .vscode/
 
-*.yml
-/src/main/java/disaster_renewer/disaster/api/MessageApiController.java
-/src/main/java/disaster_renewer/disaster/api/MessageApi2Controller.java
+#*.yml
+#/src/main/java/disaster_renewer/disaster/api/MessageApiController.java
+#/src/main/java/disaster_renewer/disaster/api/MessageApi2Controller.java
 
