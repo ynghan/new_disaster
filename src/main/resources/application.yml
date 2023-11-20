@@ -16,7 +16,7 @@ logging.level:
   org.hibernate.SQL: debug
 
 chatgpt:
-  api-key: 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
+  api-key: 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
 
 
 my:

@@ -27,5 +27,12 @@
 
 ### 도메인 개발
 1. Member 친구 추가 기능.
-   2. 최근 위치 데이터 저장
-   3. select join 기능
+2. 최근 위치 데이터 저장
+3. select join 기능
+
+#### api 테스트
+1. [CHAT GPT]: 정상 동작 / https://api.openai.com/v1/chat/completions?serviceKey=xxx
+2. [119안전센터]: 정상 동작 / localhost:8080/api/safecenter119 
+3. [병원]: 정상 동작 / http://apis.data.go.kr/B552657/HsptlAsembySearchService/getHsptlMdcncListInfoInqire?serviceKey=xxx&numOfRows=2000&QZ=B
+4. [소방서]: 정상 동작 / localhost:8080/api/firestation
+5. [경찰서]: 정상 동작 / localhost:8080/api/police
