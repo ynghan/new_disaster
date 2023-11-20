@@ -15,8 +15,7 @@ spring:
 logging.level:
   org.hibernate.SQL: debug
 
-chatgpt:
-  api-key: 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
+
 
 
 my:
@@ -25,3 +24,4 @@ my:
       hostpital: A8m%2BLiXkYxIQHFPAUy7wLpqhw6YVD1oJnSsMAviqFWEVArg2KDkCBkPRdjyuoPMFKGp0Rl8DXCoa4SqWo5IH4g%3D%3D
       message: 0B8T785T3DZWP60N
       police: A8m%2BLiXkYxIQHFPAUy7wLpqhw6YVD1oJnSsMAviqFWEVArg2KDkCBkPRdjyuoPMFKGp0Rl8DXCoa4SqWo5IH4g%3D%3D
+      chatgpt: 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

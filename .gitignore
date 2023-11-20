@@ -38,4 +38,4 @@ out/
 
 #/src/main/java/disaster_renewer/disaster/api/MessageApiController.java
 #/src/main/java/disaster_renewer/disaster/api/MessageApi2Controller.java
-/src/main/resources/application.yml
+/src/main/resources
